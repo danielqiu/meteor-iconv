@@ -1,8 +1,0 @@
-{
-	"name": "iconv",
-	"description": "Meteor wrapper for Iconv",
-	"homepage": "https://github.com/danielqiu/meteor-iconv",
-	"author": "Daniel Qiu",
-	"version": "0.0.1",
-	"git": "https://github.com/danielqiu/meteor-iconv.git"
-}
